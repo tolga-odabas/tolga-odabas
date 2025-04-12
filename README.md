@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Tolga Odabaş</h1>
+<h1 align="center">Hi! 👋, I'm Tolga Odabaş</h1>
 <h3 align="center">As a PhD student, I focus on utilizing LiDAR technology to extract forest stand parameters and classify tree species..</h3>
 
 - 📫 Bana nasıl ulaşabilirsiniz **tolga_odabas@artvin.edu.tr**
